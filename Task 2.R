@@ -1,1 +1,1 @@
-apply(x, 2, mean)
+apply(y, 2, mean)
